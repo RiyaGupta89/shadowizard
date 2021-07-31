@@ -1,0 +1,23 @@
+{
+  "name": "shadowizard",
+  "version": "1.0.0",
+  "description": "Add awesome shadows",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RiyaGupta89/shadowizard.git"
+  },
+  "keywords": [
+    "npm",
+    "package"
+  ],
+  "author": "Riya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RiyaGupta89/shadowizard/issues"
+  },
+  "homepage": "https://github.com/RiyaGupta89/shadowizard#readme"
+}
